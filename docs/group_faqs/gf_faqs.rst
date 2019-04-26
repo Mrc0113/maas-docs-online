@@ -1,21 +1,19 @@
 Frequently Answered Questions
 =============================
 
-What are plans in Solace PubSub+ cloud?
+What are service types in Solace PubSub+ cloud?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-On PubSub+ Cloud you could choose a plan to use for your messaging needs, below are the enterprise plans PubSub+ cloud offers:
+On PubSub+ Cloud you could choose a service type to use for your messaging needs, below are the enterprise service types PubSub+ cloud offers:
 
-* Nano (This is shared plan which could be used by developers)
-* Kilo
-* Mega
-* Giga
-* Tera
+* Developer-Shared (Shared, Single-Node, uses Nano service class)
+* Developer (Dedicated, Single-Node, uses Developer service class)
+* Enterprise (Dedicated, High-Availability, uses Kilo, Mega, Giga, Tera depending on client specifications)
 
-How can I get access to bigger plans such as Enterprise Mega and Giga?
+How can I get access to bigger service classes such as Mega and Giga?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you signed up for free on `our website <https://cloud.solace.com>`_ you will be using a Basic account which only has access to the Free, Nano and Kilo plans. In order to use the bigger plans, such as Enterprise Mega and Giga, you must upgrade to an Enterprise account. To do this please `contact us <https://console.solace.cloud/support>`_.
+If you signed up for free on `our website <https://cloud.solace.com>`_ you will be using a standard account which only has access to the Free, Starter, Professional which use the Free, Nano and Kilo service classes respectively. In order to use the bigger service classes, such ase Mega and Giga, you must upgrade to an Enterprise account. To do this please `contact us <https://console.solace.cloud/support>`_.
 
 How do I get access to enterprise plans?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -25,27 +23,27 @@ On the PubSub+ Cloud `Create Service <https://console.solace.cloud/services/crea
 .. image:: ../img/faqs_enterprise_access_1.png
    :target: https://console.solace.cloud/services/create
 
-How are plans used?
+How are service types used?
 ~~~~~~~~~~~~~~~~~~~
 
-There are two ways you could use an enterprise plan, you can ask for a Prepaid Subscription or for On-Demand services.
+There are two ways you could use an enterprise service type, you can ask for a Prepaid Subscription or for On-Demand services.
 
-How do I know what plan is best for my needs?
+How do I know what service type is best for my needs?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To understand the details of the plans offered by PubSub+ cloud, please visit the pricing page on our site, the plans differ on number of connections
+To understand the details of the service types offered by PubSub+ cloud, please visit the pricing page on our site, the service types differ on number of connections
 Throughput, Usage and Storage:
 `Plans Pricing <https://cloud.solace.com/pricing/>`_ page
 
-Can I change my plans?
+Can I change my service types?
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-You could raise a request to change the plan best suitable for your needs and our production engineering team will help you with it.
+You could raise a request to change to the service type best suitable for your needs and our production engineering team will help you with it.
 
-I have reached my limit, how can I get a higher plan limit?
+I have reached my limit, how can I get a higher service type limit?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You could raise a request to add a plan best suitable for your needs and our production engineering team will help you with it.
+You could raise a request for higher service limits and our production engineering team will help you with it.
 
 
 How do On Demand plans work compared to Prepaid Subscription?

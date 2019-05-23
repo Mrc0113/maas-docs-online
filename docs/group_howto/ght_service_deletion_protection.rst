@@ -10,7 +10,7 @@ Enable Deletetion Protection:
 
 1. Go to your service details page by clicking on your service.
 2. On the service details page, navigate to the Management tab.
-3. Click on Deletion protection button to enable protection, notice the lock turn green.
+3. Click on Deletion protection button to enable protection.
 
 .. figure:: ../img/service_protected_1.png
 
@@ -19,6 +19,6 @@ Disable Deletetion Protection:
 
 1. Go to your service details page by clicking on your service.
 2. On the service details page, navigate to the Management tab.
-3. Click on Deletion protection button to disable protection, notice the lock turn grey.
+3. Click on Deletion protection button to disable protection.
 
 .. figure:: ../img/service_not_protected_1.png
